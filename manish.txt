@@ -6,3 +6,5 @@ This contents are updated from Github
 
 This file is updated on VM
 This file is updated on GH
+
+Updated this file after cloning

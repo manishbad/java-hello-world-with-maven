@@ -1,3 +1,5 @@
 This file is updated in branch1
 
 This changes are done in Master branch
+
+Updated this file after cloning
